@@ -1,0 +1,3 @@
+@echo off
+echo 正在啟動營建工程個人網站...
+npm run dev -- --open
